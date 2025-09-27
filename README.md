@@ -2,7 +2,7 @@
 
 # 💻 Matheus Leão
 
-<p  align="left"> Sou estudante de Análise e Desenvolvimento de Sistemas na Unit, com interesse especial em desenvolvimento de software e foco atual em Back-end com Java Spring Boot. Durante minha trajetória, tive a oportunidade de participar de projetos que ampliaram minha visão prática da área de tecnologia. Entre eles, destaco a prototipação de uma startup, onde pude contribuir para transformar uma ideia em um modelo inicial viável, e o desenvolvimento do front-end para o SVO, experiência que me permitiu aplicar conceitos de interface e usabilidade no contexto real de um sistema.
+<p  align="left"> Sou estudante de Análise e Desenvolvimento de Sistemas na Unit, com interesse especial em desenvolvimento de software e foco atual em Back-end com Java Spring Boot. Participei de projetos que ampliaram minha visão prática em tecnologia, como a prototipação de uma startup, transformando uma ideia em modelo inicial, e o desenvolvimento do front-end do SVO, aplicando conceitos de interface e usabilidade em um sistema real.
 
 Busco constantemente aprimorar minhas habilidades técnicas, aprender novas ferramentas e metodologias, e colaborar em projetos que agreguem valor por meio da tecnologia. </p>
 
